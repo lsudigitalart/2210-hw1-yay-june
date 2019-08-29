@@ -7,3 +7,8 @@
 
 ## Ellipse Composition
 Use p5.js to create a composition using only black and white ellipses.
+
+## Examples
+- https://lsudigitalart.github.io/hw-01-kristenseneca
+- https://lsudigitalart.github.io/lsuart2210-hw-01-EHargis2137
+- https://lsudigitalart.github.io/lsuart2210-hw-01-MeliBuck
